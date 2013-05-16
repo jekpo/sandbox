@@ -3,6 +3,8 @@ All the tasks below are to be done in the Introduction class
 
 Please take a screen shot of the section you have updated including the console out after each Run.
 
+0. Run the program AS IS and write down your observation. Explain what you just saw and why.
+
 1. Remove the invocation of the whileLoops() method in the main method in the Introduction class.
 
 Run the application and record your observation. Explain what you just observed.
@@ -38,3 +40,7 @@ Explain the reason behind what you just observed. Why did we stop at the number 
 9. Make changes so that whileLoops() will only display up to the number 4.
 
 10. Make changes so that whileLoops() will only display up to the number 12.
+
+11. Invoke forLoopsTres() and whileLoopDos() and explain what is happening.
+
+
