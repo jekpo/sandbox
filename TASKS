@@ -1,0 +1,40 @@
+
+All the tasks below are to be done in the Introduction class
+
+Please take a screen shot of the section you have updated including the console out after each Run.
+
+1. Remove the invocation of the whileLoops() method in the main method in the Introduction class.
+
+Run the application and record your observation. Explain what you just observed.
+
+2. Call only the branchingUno() within the main() method and make a note of the output you observe.
+
+Explain the reason behind what you just observed.
+
+3. Call only the branchingDos() within the main() method and make a note of the output you observe.
+
+Explain the reason behind what you just observed.
+
+4. Call only the branchingTres() within the main() method and make a note of the output you observe.
+
+Explain the reason behind what you just observed.
+
+5. Call only the branchingQuatro() within the main() method and make a note of the output you observe.
+
+Explain the reason behind what you just observed.
+
+6. Call only the forLoops() within the main() method and make a note of the output you observe.
+
+Explain the reason behind what you just observed. Why did we stop at the number 9 and not 10?
+
+7. Call only the whileLoops() within the main() method and make a note of the output you observe.
+
+Explain the reason behind what you just observed. Why did we stop at the number 9 and not 10?
+
+8. Call only the forLoopsDos() within the main() method and make a note of the output you observe.
+
+Explain the reason behind what you just observed. Why did we stop at the number 10 and not 9?
+
+9. Make changes so that whileLoops() will only display up to the number 4.
+
+10. Make changes so that whileLoops() will only display up to the number 12.

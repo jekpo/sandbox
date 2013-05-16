@@ -53,6 +53,13 @@ public class Introduction {
 		}
 	}
 
+	public static void forLoopsDos() {
+
+		for (int i=0; i <= 10; i++) {
+			System.out.println("The current value of i is : " + i);
+		}
+	}
+
 	public static void whileLoops() {
 
 		int i = 0;
