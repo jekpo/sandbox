@@ -3,6 +3,12 @@ All the tasks below are to be done in the Introduction class
 
 Please take a screen shot of the section you have updated including the console out after each Run.
 
+In Ubuntu 12, to take a screen shot, press the Shift + PrintScreen button. Then select the area you would like to capture.
+
+Once the area is selected, specify the path where you want the image file to be stored and save it there.
+
+On a Mac OS X machine, the steps are similar, however, you would have to Press the Command + Shift + 4 keys to do the same task.
+
 0. Run the program AS IS and write down your observation. Explain what you just saw and why.
 
 1. Remove the invocation of the whileLoops() method in the main method in the Introduction class.
