@@ -59,10 +59,12 @@ public class Introduction {
 
 		while (i < 10) {
 			System.out.println("The current value of i is : " + i);
+			i++;
 		}
 	}
 
 	public static void main(String[] args) {
 
+		whileLoops();
 	}
 }
