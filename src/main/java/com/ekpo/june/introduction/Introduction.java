@@ -128,7 +128,7 @@ public class Introduction {
 
 		int i = 0;
 
-		while (i < 10) {
+		while (i <=12) {
 			System.out.println("The current value of i is : " + i);
 			i++;
 		}
@@ -163,6 +163,7 @@ public class Introduction {
 
 		// Here we are invoking the Introduction.whileLoops() method
 		// You can comment out this invocation to add another statement that invokes a different method.
-		whileLoops();
+		forLoopsTres();
+		whileLoopsDos();
 	}
 }
