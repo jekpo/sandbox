@@ -264,9 +264,24 @@ public class Parameters {
 	 */
 	public static void main(String[] args) {
 
-		// Call the loopsAndSayTheAgeGroups function and explain why the screen is showing what it is showing
+		// (1) Call the loopsAndSayTheAgeGroups function and explain why the screen is showing what it is showing
 		
-		// 
+		// (2) Call displayFullName with the following arguments
+		// Mr. Israel Ekpo, Sr.
+		// Mrs. June Ekpo
+		// Mr. Dale Einhart Jr.
 		
+		
+		// (3) Call displayAdditionResult with 560 and 30 and explain what is going on
+		
+		// (4) Call displaySubtractionResult with 560 and 30 and explain what is going on
+		
+		// (5) Call displayMultiplicationResult with 4 and 7
+		
+		// (6) Call displayDivisionResult with 62 and 15
+		
+		// (7) Call displayModulusResult with 62 and 15
+		
+		// (8) Call displayAgeGroups with 11, 16 and 19 and explain why you observe what you saw
 	}
 }
